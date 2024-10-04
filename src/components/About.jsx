@@ -50,13 +50,14 @@ const About = () => {
   
   ingin connect ke LinkedIn klik
   <a 
-    href="www.linkedin.com/in/azzamizz" 
+    href="https://www.linkedin.com/in/azzamizz" 
     target="_blank" 
     rel="noopener noreferrer"
     className="text-primary font-bold" // Ganti dengan warna yang diinginkan
   >
     <span className="text-green-500"> DISINI</span>
   </a>
+
 </motion.p>
 
 
